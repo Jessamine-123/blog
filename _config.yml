@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Yeqi Jin"
 description              : "This is the academic homepage of Yang Wang."
+url                      : "https://yeqijin.com"
 repository               : "Jessamine-123/Jessamine-123.github.io"
 google_scholar_stats_use_cdn : false
 
