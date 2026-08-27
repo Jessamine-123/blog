@@ -20,9 +20,9 @@ redirect_from:
 
 # 👋 About Me
 
-I like ideas that look simple because they have done the hard work.
+<!-- I like ideas that look simple because they have done the hard work.
 
-My research lies between language, speech, and intelligence. I am interested in how machines understand words, signals, knowledge, and the world behind them. I am particularly drawn to mechanisms that are simple, robust, and useful without unnecessary complexity.
+My research lies between language, speech, and intelligence. I am interested in how machines understand words, signals, knowledge, and the world behind them. I am particularly drawn to mechanisms that are simple, robust, and useful without unnecessary complexity. -->
 
 This perspective has led me to work on natural language processing, speech technology, multimodal learning, and large language models. More recently, I have become interested in the cognitive and psychological behaviours of language models, especially what they reveal about reasoning, knowledge, and the limits of machine intelligence. All publications are available on <a href='https://scholar.google.com/citations?user=EPrTek0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
