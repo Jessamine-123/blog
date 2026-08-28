@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yeqi Jin"
-description              : "This is the academic homepage of Yang Wang."
+description              : "This is the academic homepage of Yeqi Jin."
 url                      : "https://yeqijin.com"
 repository               : "Jessamine-123/Jessamine-123.github.io"
 google_scholar_stats_use_cdn : false
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yang Wang"
+  name             : "Yeqi Jin"
   avatar           : "images/avatar.png"
-  bio              : "進めば見える"
+  bio              : "webpage building in progress..."
   location         : "Manchester, UK"
   employer         : # "Automated Analytics"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=EPrTek0AAAAJ"
-  email            : "yangwang4work@gmail.com"
+  googlescholar    :
+  email            : "yeqi.jin@postgrad.manchester.ac.uk"
   researchgate     : # "https://www.researchgate.net/profile/Yang-Wang-715"
   uri              : 
   bitbucket        :
@@ -44,9 +44,9 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "wangyang825"
+  linkedin         :
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # "https://orcid.org/0009-0000-0837-657X"
+  orcid            : "https://orcid.org/0009-0001-4641-2321"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
