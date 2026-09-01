@@ -118,7 +118,9 @@
    $small                      : 600px !default;
    $medium                     : 768px !default;
    $medium-wide                : 900px !default;
-   $large                      : 925px !default;
+   // Keep the compact, stacked profile layout on laptop-sized viewports.
+   // The previous 925px breakpoint activated the narrow desktop sidebar too early.
+   $large                      : 1200px !default;
    $x-large                    : 1280px !default;
    
    /*
